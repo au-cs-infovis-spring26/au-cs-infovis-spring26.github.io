@@ -66,7 +66,7 @@ Any changes to the semester schedule will be announced on Canvas.
         <td>Fri., Jan. 30</td>
         <td>DIA 3</td>
         <td>Lab 3: Working with Data</td>
-        <td></td> 
+        <td>Solo Project Pitches</td> 
     </tr>
     <tr>
         <td>4</td>
@@ -149,86 +149,85 @@ Any changes to the semester schedule will be announced on Canvas.
     <tr>
         <td>10</td>
         <td>Tue., Mar. 17</td>
-        <td>VAD 9.1, 9.3, 9.5</td>
-        <td>Trees and Hierarchies</td>
+        <td>VAD 11</td>
+        <td>Manipulate View</td>
         <td></td>
     </tr>
     <tr>
         <td></td>
         <td>Fri., Mar. 20</td>
+        <td>DIA 7</td>
+        <td>Interactive Visualizations</td>
+        <td>Solo Project Sketches</td>
+    </tr>
+    <tr>
+        <td>11</td>
+        <td>Tue., Mar. 24</td>
+        <td>VAD 9.1, 9.3, 9.5</td>
+        <td>Trees and Hierarchies</td>
+        <td>Submit Lab 7</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Fri., Mar. 27</td>
         <td>DIA 11</td>
         <td>Hierarchical Visualizations</td>
         <td></td>
     </tr>
     <tr>
-        <td>11</td>
-        <td>Tue., Mar. 24</td>
+        <td>12</td>
+        <td>Tue., Mar. 31</td>
         <td>VAD 9.2, 9.4</td>
         <td>Networks</td>
         <td></td>
     </tr>
     <tr>
         <td></td>
-        <td>Fri., Mar. 27</td>
-        <td>DIA 12</td>
-        <td>Network Visualizations</td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>12</td>
-        <td>Tue., Mar. 31</td>
-        <td>VAD 8</td>
-        <td>Arrange Spatial Data</td>
-        <td></td>
-    </tr>
-    <tr>
-        <td></td>
         <td>Fri., Apr. 3</td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>DIA 12</td>
+        <td>Network visualizations</td>
+        <td>Solo Project Prototype</td>
     </tr>
     <tr>
         <td>13</td>
         <td>Tue., Apr. 7</td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>VAD 8</td>
+        <td>Arrange Spatial Data</td>
+        <td>Submit Lab 8</td>
     </tr>
     <tr>
         <td></td>
         <td>Fri., Apr. 10</td>
-                <td></td>
-        <td></td>
-        <td></td>
+        <td>DIA 13</td>
+        <td>Geospatial Information Visualizations</td>
+        <td>Submit HW 4</td>
     </tr>
     <tr>
         <td>14</td>
         <td>Tue., Apr. 14</td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>VAD 12</td>
+        <td>Facet into Multiple Views</td>
+        <td>Submit Lab 9</td>
     </tr>
     <tr>
         <td></td>
         <td>Fri., Apr. 17</td>
-        <td></td>
-        <td></td>
+        <td>VAD 13</td>
+        <td>Reduce Items and Attributes</td>
         <td></td>
     </tr>
     <tr>
         <td>15</td>
         <td>Tue., Apr. 21</td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>VAD 14</td>
+        <td>Embed: Focus + Context</td>
+        <td>Submit HW 5</td>
     </tr>
     <tr>
         <td></td>
         <td>Fri., Apr. 24</td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td colspan="2" style="text-align:center;">Solo Project Video Reviews and Q&A</td>
+        <td>Solo Project Videos</td>
     </tr>
     <tr>
         <td>FINALS</td>

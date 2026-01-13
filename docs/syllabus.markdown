@@ -80,7 +80,7 @@ Students must attend all lectures. Not attending the discussion sessions and/or 
 [comment]: <> (Exams cover the material from the lectures and reading. While not necessarily cumulative, each exam will require understanding many of the concepts covered in the preceding exams. Exams consist of multiple choice, short answer, and long answer questions. Each exam  is typically curved based on class performance.)
 
 ## Grading
-- Assignments: 20%
+- HW Assignments: 20%
 - Midterm: 20%
 - Final: 20%
 - Labs: 20%
