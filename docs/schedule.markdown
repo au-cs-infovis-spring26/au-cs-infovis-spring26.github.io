@@ -152,12 +152,22 @@ Any changes to the semester schedule will be announced on Canvas.
     <tr>
         <td>7</td>
         <td>Tue., Feb. 24</td>
-        <td colspan="7" style="text-align:center;">EXAM 1</td>
+        <td></td>
+        <td></td>
+        <td>4.1-4.4, all</td>
+        <td>Intellectual Property</td>
+        <td></td>
+        <td></td>
     </tr>
     <tr>
         <td></td>
         <td>Fri., Feb. 27</td>
-        <td colspan="7" style="text-align:center;">NO CLASS - No Class (Fall Break)</td>
+        <td></td>
+        <td></td>
+        <td>4.1-4.4, all</td>
+        <td>Intellectual Property</td>
+        <td></td>
+        <td></td>
     </tr>
     <tr>
         <td>8</td>
@@ -172,19 +182,17 @@ Any changes to the semester schedule will be announced on Canvas.
     <tr>
         <td></td>
         <td>Fri., Mar. 6</td>
-        <td>15, p. 340-358</td>
-        <td>Finding and Evaluating Sources</td>
-        <td colspan="4" style="text-align:center;">Research Librarian Visit</td>
+        <td></td>
+        <td></td>
+        <td>4.1-4.4, all</td>
+        <td>Intellectual Property</td>
+        <td></td>
+        <td></td>
     </tr>
     <tr>
         <td>9</td>
         <td>Tue., Mar. 10</td>
-        <td>16, p. 359-374</td>
-        <td>Incorporating Sources</td>
-        <td>4.5-4.10, all</td>
-        <td>Digital IP</td>
-        <td></td>
-        <td></td>
+        <td colspan="6" style="text-align:center;">NO CLASS - No Class (Spring Break)</td>
     </tr>
     <tr>
         <td></td>
@@ -302,14 +310,9 @@ Any changes to the semester schedule will be announced on Canvas.
         <td></td>
         <td></td>
         <td>10.4-10.7</td>
-        <td>Globalization</td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
         <td>Last Day of Class</td>
-        <td>Tue., Apr. 28</td>
-        <td colspan="6" style="text-align:center;">Topic TBD</td>
+        <td></td>
+        <td></td>
     </tr>
     <tr>
         <td>FINALS</td>
