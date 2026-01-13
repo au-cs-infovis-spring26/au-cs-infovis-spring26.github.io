@@ -8,7 +8,7 @@ permalink: /finalproject/
 > Photo by <a href="https://unsplash.com/@heylagostechie?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Lagos Techie</a> on <a href="https://unsplash.com/s/photos/group-code?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
 ## Theme
-This semester we are going to pursue data sets that deal with significant social, civic, or environmental concerns. While not required, I encourage you to look into data sets that are relevant to the DC metro area. The final project will provide hands-on experience designing, implementing, and deploying interactive visualizations for the web. The final deliverable will take the form of an explanatory narrative, deployed as an interactive web page using GitHub Pages.
+This semester we are going to pursue data sets that deal with personal data - data collected by you or by another person cataloging their life. The final project will provide hands-on experience designing, implementing, and deploying interactive visualizations for the web. The final deliverable will take the form of an explanatory narrative, deployed as an interactive web page using GitHub Pages.
 
 1. [Pitch](#pitch)
 2. [Proposal](#proposal)
@@ -33,17 +33,15 @@ I am a big fan of the [Data is Plural Archive](https://docs.google.com/spreadshe
 
 ## Proposal
 
-Your team is submitting a statement of intent, not a contract - it is natural that your plans will change somewhat as you refine your ideas. The key is to find some domain and task(s) that both interests you and presents an opportunity for infovis. That is, there is some task where a human needs to understand the structure of a large dataset. You are definitely welcome to link the infovis project to another class or research project. You may also build on existing software, but your project should include some implementation work of your own. This project should be completed as a publishable website, using one of the visualization frameworks we discuss in class (e.g., vega-lite, d3). Other visualization software libraries are potentially viable, if you have a question, discuss it with me.
+You are submitting a statement of intent, not a contract - it is natural that your plans will change somewhat as you refine your ideas. The key is to find some domain and task(s) that both interests you and presents an opportunity for infovis. That is, there is some task where a human needs to understand the structure of a large dataset. You are definitely welcome to link the infovis project to another class or research project. You may also build on existing software, but your project should include some implementation work of your own. This project should be completed as a publishable website, using one of the visualization frameworks we discuss in class (e.g., vega-lite, d3). Other visualization software libraries are potentially viable, if you have a question, discuss it with me.
 
 Proposal format: your writeup should follow this outline for major sections:
-1. [Project Title and Team](#project-title-and-team)
+1. [Project Title](#project-title)
 2. [Domain and Data](#domain-and-data)
 3. [Related Work](#related-work)
 4. [Initial Sketches](#initial-sketches)
 
-### Project Title and Team
-
-Include names and email addresses of all people on this project team
+### Project Title
 
 ### Domain and Data
 - a brief description of the domain - what is it, and why do people care about it?
@@ -58,7 +56,7 @@ Include names and email addresses of all people on this project team
 While this section will not be as complete as in your design document, you should begin to discuss what has been done in this area. Find at least 3 significant projects or papers and describe how they are relevant to your topic. Your related work section can include both academic work, examples from class, and any relevant commercial tools. You do not have to go into great detail here, just make it clear that you have looked around and started to get a sense for what has been done before.
 
 ### Initial Sketches
-Your team is also submitting a design document that should plans for applying information visualization techniques we have discussed in class to your proposed data set. This document primarily consists of an exploration of the design space for creating a visualization from your data. To complete this, you and your team will follow the [Five Design Sheet](http://fds.design/) process that we will discuss in class. Each sheet serves a specific purpose. Note: You do not have to use the templates that are provided, but your individual pages should contain the same general content.
+You are also submitting a design document that should plans for applying information visualization techniques we have discussed in class to your proposed data set. This document primarily consists of an exploration of the design space for creating a visualization from your data. To complete this, you will follow the [Five Design Sheet](http://fds.design/) process that we will discuss in class. Each sheet serves a specific purpose. Note: You do not have to use the templates that are provided, but your individual pages should contain the same general content.
 
 #### Sheet 1: Brainstorming
 
@@ -88,5 +86,5 @@ To complete your final project, you must provide two primary deliverables:
 
 Your final project visualizations must be published on GitHub pages. For your visualizations you are free to use any web-based libraries, including but not limited to: D3.js, Vega, Vega-Lite, and [Altair](https://altair-viz.github.io/). Be sure to properly cite any web-based libraries or third-party materials used for your project clearly on your webpage. To publish your webpage using GitHub pages, place all necessary files in the "docs" subfolder of your repository.
 
-The goal for your final project webpage is to produce a polished explanatory narrative of a topic of interest exploring the dataset that you chose and building from the sketches your team documented in your proposal.
+The goal for your final project webpage is to produce a polished explanatory narrative of a topic of interest exploring the dataset that you chose and building from the sketches you documented in your proposal.
 
