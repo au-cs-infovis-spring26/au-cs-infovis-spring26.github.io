@@ -14,10 +14,7 @@ permalink: /syllabus/
 
 Sharing code on individual assignments or between groups on group assignments is strictly forbidden - this is a
 form of plagiarism. There is rarely one single
-correct way to write code that solves a problem. While we want you to feel free to discuss your approach with your classmates, you should know that there are often many solutions for a given problem, and it's typically obvious when one
-student shares code with another. If you directly copy and paste code from the Internet (or even the text), cite your
-source in your comments (but also ensure that you understand what the code is doing - not all code on the web is good!).
-Assignments will be checked using plagiarism detection software and by hand to ensure the originality of the work.
+correct way to write code that solves a problem. While we want you to feel free to discuss your approach with your classmates, you should know that there are often many solutions for a given problem, and it's typically obvious when one student shares code with another. If you directly copy and paste code from the Internet (or even the text), cite your source in your comments (but also ensure that you understand what the code is doing - not all code on the web is good!). Assignments may be checked using plagiarism detection software and by hand to ensure the originality of the work.
 
 Do not share your code with anyone other than a partner on group assignments. Do not show or share your work with other students, even just for a second. Do not let someone look at your screen. You may get behind, or
 your friend may ask for help, but the consequences for plagiarism are far worse than an incomplete submission - for the
@@ -83,12 +80,12 @@ Students must attend all lectures. Not attending the discussion sessions and/or 
 [comment]: <> (Exams cover the material from the lectures and reading. While not necessarily cumulative, each exam will require understanding many of the concepts covered in the preceding exams. Exams consist of multiple choice, short answer, and long answer questions. Each exam  is typically curved based on class performance.)
 
 ## Grading
-- Assignments: 25%
+- Assignments: 20%
 - Midterm: 20%
 - Final: 20%
-- Labs: 15%
-- Attendance and Participation: 5%
+- Labs: 20%
 - Final Project: 15%
+- Attendance and Participation: 5%
 
 ## Letter Grades
 - **A** [93, 100]
