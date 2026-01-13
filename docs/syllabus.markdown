@@ -8,19 +8,7 @@ permalink: /syllabus/
 - **Email**: [godwin@american.edu](godwin@american.edu)
 - **Website**: [Alex Godwin Website](https://jagodwin.github.io/)
 - **Office**: DMTI 112C
-- **Office Hours**: Tue/Wed/Fri: 11:30am-12:30pm. Zoom meetings are also available on request during these hours.
-
-## Coronavirus Policies
-
-**VACCINES** For fall 2021, AU will require vaccines for all students who reside on campus or come to campus for any reason. This will enable us to expand activities and interactions that enrich the educational, research, and social experiences that are fundamental to AU. Students will be able to request exceptions for medical or religious reasons following existing protocols. We are also working to support international students who may require access to vaccines when they arrive in the United States.  Please see [Vaccine Requirement FAQs](https://www.american.edu/ocl/housing/room-selection.cfm#frequent).
-
-[//]: # (**MASKS** The District of Columbia has reinstated mask requirements indoors for all persons over age two, regardless of vaccination status, effective July 31, 2021. In accordance with the Mayor’s Order &#40;Order 2021-097&#41;, anyone present in AU buildings or campus facilities must wear masks while indoors. The only exceptions are when eating or alone in an office or residence hall room. See [https://www.american.edu/ocl/masks-7302021.cfm]&#40;https://www.american.edu/ocl/masks-7302021.cfm&#41; for more information.)
-
-[//]: # (- Students who do not attend class in an appropriate face covering will be asked to put one on.)
-
-[//]: # (- Students who do not agree to wear a mask will be asked to leave the room and will be marked absent for the day.)
-
-[//]: # (For more information about general policies regarding American University's response to COVID-19, please refer to the full memo at [https://www.american.edu/coronavirus/]&#40;https://www.american.edu/coronavirus/&#41;.)
+- **Office Hours**: TBD
 
 ## Academic Integrity
 
@@ -95,11 +83,12 @@ Students must attend all lectures. Not attending the discussion sessions and/or 
 [comment]: <> (Exams cover the material from the lectures and reading. While not necessarily cumulative, each exam will require understanding many of the concepts covered in the preceding exams. Exams consist of multiple choice, short answer, and long answer questions. Each exam  is typically curved based on class performance.)
 
 ## Grading
-- Assignments: 35%
-- Quizzes: 10%
-- Peer Reviews: 10%
-- Attendance and Participation: 10%
-- Final Project: 35%
+- Assignments: 25%
+- Midterm: 20%
+- Final: 20%
+- Labs: 15%
+- Attendance and Participation: 5%
+- Final Project: 15%
 
 ## Letter Grades
 - **A** [93, 100]
