@@ -31,7 +31,7 @@ Any changes to the semester schedule will be announced on Canvas.
     </tr>
     <tr>
         <td>1</td>
-        <td>Tue., Aug. 26</td>
+        <td>Tue., Jan. 13</td>
         <td>1, p. 1-16</td>
         <td>Argument: An Introduction</td>
         <td>1.1-1.2</td>
@@ -41,7 +41,7 @@ Any changes to the semester schedule will be announced on Canvas.
     </tr>
     <tr>
         <td></td>
-        <td>Fri., Aug. 29</td>
+        <td>Fri., Jan. 16</td>
         <td>2., p. 17-43</td>
         <td>Argument as Inquiry</td>
         <td>1.3-1.6</td>
@@ -51,7 +51,7 @@ Any changes to the semester schedule will be announced on Canvas.
     </tr>
     <tr>
         <td>2</td>
-        <td>Tue., Sep. 2</td>
+        <td>Tue., Jan. 20</td>
         <td>3., p. 51-65</td>
         <td>Core of an Argument</td>
         <td>2.1-2.5, all</td>
@@ -61,7 +61,7 @@ Any changes to the semester schedule will be announced on Canvas.
     </tr>
     <tr>
         <td></td>
-        <td>Fri., Sep. 5</td>
+        <td>Fri., Jan. 23</td>
         <td>4., p. 67-86</td>
         <td>Logical Structure of an Argument</td>
         <td>2.7 - 2.8, all + Appendix B.1-B.2</td>
@@ -71,7 +71,7 @@ Any changes to the semester schedule will be announced on Canvas.
     </tr>
     <tr>
         <td>3</td>
-        <td>Tue., Sep. 9</td>
+        <td>Tue., Jan. 27</td>
         <td>5., p.88-103</td>
         <td>Using Evidence Effectively</td>
         <td>2.9, all + Appendix B.3-B.5</td>
@@ -81,7 +81,7 @@ Any changes to the semester schedule will be announced on Canvas.
     </tr>
     <tr>
         <td></td>
-        <td>Fri., Sep. 12</td>
+        <td>Fri., Jan. 30</td>
         <td>6., 104-119</td>
         <td>Moving your Audience</td>
         <td>2.6, all</td>
@@ -91,7 +91,7 @@ Any changes to the semester schedule will be announced on Canvas.
     </tr>
     <tr>
         <td>4</td>
-        <td>Tue., Sep. 16</td>
+        <td>Tue., Feb. 3</td>
         <td>7, p.121-144</td>
         <td>Responding to Objections and Alternative Views</td>
         <td>2.10, p. all</td>
@@ -101,7 +101,7 @@ Any changes to the semester schedule will be announced on Canvas.
     </tr>
     <tr>
         <td></td>
-        <td>Fri., Sep. 19</td>
+        <td>Fri., Feb. 6</td>
         <td>8., p. 153-168</td>
         <td>Analyzing Arguments Rhetorically</td>
         <td>2.11-2.12, all</td>
@@ -111,7 +111,7 @@ Any changes to the semester schedule will be announced on Canvas.
     </tr>
     <tr>
         <td>5</td>
-        <td>Tue., Sep. 23</td>
+        <td>Tue., Feb. 10</td>
         <td>10. p. 209-210</td>
         <td>Types of Claims</td>
         <td>3.1, 3.3, 3.6</td>
@@ -121,7 +121,7 @@ Any changes to the semester schedule will be announced on Canvas.
     </tr>
     <tr>
         <td></td>
-        <td>Fri., Sep. 26</td>
+        <td>Fri., Feb. 13</td>
         <td>11. p. 220-241</td>
         <td>Definition &amp; Resemblance Arguments</td>
         <td>3.7-3.8</td>
@@ -131,7 +131,7 @@ Any changes to the semester schedule will be announced on Canvas.
     </tr>
     <tr>
         <td>6</td>
-        <td>Tue., Sep. 30</td>
+        <td>Tue., Feb. 17</td>
         <td>12, p. 248-264</td>
         <td>Causal Arguments</td>
         <td>8.5, p.397-403</td>
@@ -141,7 +141,7 @@ Any changes to the semester schedule will be announced on Canvas.
     </tr>
     <tr>
         <td></td>
-        <td>Fri., Oct. 3</td>
+        <td>Fri., Feb. 20</td>
         <td>13. p. 276-293, 14, p. 304-321</td>
         <td>Evaluation &amp; Ethical Arguments, Proposal Arguments</td>
         <td></td>
@@ -151,17 +151,17 @@ Any changes to the semester schedule will be announced on Canvas.
     </tr>
     <tr>
         <td>7</td>
-        <td>Tue., Oct. 7</td>
+        <td>Tue., Feb. 24</td>
         <td colspan="7" style="text-align:center;">EXAM 1</td>
     </tr>
     <tr>
         <td></td>
-        <td>Fri., Oct. 10</td>
+        <td>Fri., Feb. 27</td>
         <td colspan="7" style="text-align:center;">NO CLASS - No Class (Fall Break)</td>
     </tr>
     <tr>
         <td>8</td>
-        <td>Tue., Oct. 14</td>
+        <td>Tue., Mar. 3</td>
         <td></td>
         <td></td>
         <td>4.1-4.4, all</td>
@@ -171,14 +171,14 @@ Any changes to the semester schedule will be announced on Canvas.
     </tr>
     <tr>
         <td></td>
-        <td>Fri., Oct. 17</td>
+        <td>Fri., Mar. 6</td>
         <td>15, p. 340-358</td>
         <td>Finding and Evaluating Sources</td>
         <td colspan="4" style="text-align:center;">Research Librarian Visit</td>
     </tr>
     <tr>
         <td>9</td>
-        <td>Tue., Oct. 21</td>
+        <td>Tue., Mar. 10</td>
         <td>16, p. 359-374</td>
         <td>Incorporating Sources</td>
         <td>4.5-4.10, all</td>
@@ -188,7 +188,7 @@ Any changes to the semester schedule will be announced on Canvas.
     </tr>
     <tr>
         <td></td>
-        <td>Fri., Oct. 24</td>
+        <td>Fri., Mar. 13</td>
         <td>17, p. 375-396</td>
         <td>Citing and Documenting Sources</td>
         <td>Appendix A</td>
@@ -198,7 +198,7 @@ Any changes to the semester schedule will be announced on Canvas.
     </tr>
     <tr>
         <td>10</td>
-        <td>Tue., Oct. 28</td>
+        <td>Tue., Mar. 17</td>
         <td></td>
         <td></td>
         <td>5, all</td>
@@ -208,7 +208,7 @@ Any changes to the semester schedule will be announced on Canvas.
     </tr>
     <tr>
         <td></td>
-        <td>Fri., Oct. 31</td>
+        <td>Fri., Mar. 20</td>
         <td></td>
         <td></td>
         <td>6, all</td>
@@ -218,7 +218,7 @@ Any changes to the semester schedule will be announced on Canvas.
     </tr>
     <tr>
         <td>11</td>
-        <td>Tue., Nov. 4</td>
+        <td>Tue., Mar. 24</td>
         <td></td>
         <td></td>
         <td>7, all</td>
@@ -228,7 +228,7 @@ Any changes to the semester schedule will be announced on Canvas.
     </tr>
     <tr>
         <td></td>
-        <td>Fri., Nov. 7</td>
+        <td>Fri., Mar. 27</td>
         <td></td>
         <td></td>
         <td>8.1-8.4</td>
@@ -238,7 +238,7 @@ Any changes to the semester schedule will be announced on Canvas.
     </tr>
     <tr>
         <td>12</td>
-        <td>Tue., Nov. 11</td>
+        <td>Tue., Mar. 31</td>
         <td>9., p. 175-206</td>
         <td>Visual Arguments</td>
         <td></td>
@@ -248,7 +248,7 @@ Any changes to the semester schedule will be announced on Canvas.
     </tr>
     <tr>
         <td></td>
-        <td>Fri., Nov. 14</td>
+        <td>Fri., Apr. 3</td>
         <td></td>
         <td></td>
         <td>8.9, all</td>
@@ -258,7 +258,7 @@ Any changes to the semester schedule will be announced on Canvas.
     </tr>
     <tr>
         <td>13</td>
-        <td>Tue., Nov. 18</td>
+        <td>Tue., Apr. 7</td>
         <td></td>
         <td></td>
         <td>9, all</td>
@@ -268,12 +268,12 @@ Any changes to the semester schedule will be announced on Canvas.
     </tr>
     <tr>
         <td></td>
-        <td>Fri., Nov. 21</td>
+        <td>Fri., Apr. 10</td>
         <td colspan="6" style="text-align:center;">PAPER REVIEW</td>
     </tr>
     <tr>
         <td>14</td>
-        <td>Tue., Nov. 25</td>
+        <td>Tue., Apr. 14</td>
         <td></td>
         <td></td>
         <td>8.6-8.8, 10.1-10.2, all</td>
@@ -283,12 +283,12 @@ Any changes to the semester schedule will be announced on Canvas.
     </tr>
     <tr>
         <td></td>
-        <td>Fri., Nov. 28 </td>
+        <td>Fri., Apr. 17</td>
         <td colspan="6" style="text-align:center;">NO CLASS - No Class (Thanksgiving Holiday)</td>
     </tr>
     <tr>
         <td>15</td>
-        <td>Tue., Dec. 2</td>
+        <td>Tue., Apr. 21</td>
         <td></td>
         <td></td>
         <td>10.3, all</td>
@@ -298,7 +298,7 @@ Any changes to the semester schedule will be announced on Canvas.
     </tr>
     <tr>
         <td></td>
-        <td>Fri., Dec. 5</td>
+        <td>Fri., Apr. 24</td>
         <td></td>
         <td></td>
         <td>10.4-10.7</td>
@@ -307,9 +307,14 @@ Any changes to the semester schedule will be announced on Canvas.
         <td></td>
     </tr>
     <tr>
+        <td>Last Day of Class</td>
+        <td>Tue., Apr. 28</td>
+        <td colspan="6" style="text-align:center;">Topic TBD</td>
+    </tr>
+    <tr>
         <td>FINALS</td>
-        <td>Tue, Dec. 9</td>
-        <td colspan="6" style="text-align:center;">Finals Week: EXAM 2 - 11:20AM-12:50PM</td>
+        <td>Fri., May. 1</td>
+        <td colspan="6" style="text-align:center;">Finals Week: 08:10AM-10:40AM</td>
     </tr>
 </table>
 </div>
