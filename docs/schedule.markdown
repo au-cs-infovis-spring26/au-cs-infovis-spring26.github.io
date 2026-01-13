@@ -4,127 +4,346 @@ title: Schedule
 permalink: /schedule/
 ---
 
-Readings are subject to change. Check the online syllabus before reading. Please refer to the learning management system (LMS) for all assignment deadlines and expected deliverables.
+<style>
+  .highlight {
+    background-color: #ffffcc !important; /* light yellow highlight */
+    outline: 2px solid #ff9900; /* orange outline */
+  }
+</style>
 
-### Week 1
-- Tue., Jan. 16 Introductions
-  - Reading: 
-    - VAD 1: What is Vis?
-- Fri., Jan. 19 Orienting yourself to Web Visualizations
-  - Reading:
-    - Murray 1-2
-    - [Introduction to Observable](https://observablehq.com/d/d69e24aa78dabd68)
-    - Optional: [A Minimal Introduction to JavaScript and Observable](https://observablehq.com/@uwdata/a-minimal-introduction-to-javascript-and-observable?collection=@uwdata/visualization-curriculum). You may want to spend some time here if you are completely new to Javascript or need a refresher on programming in general. If so, review this before the Introduction to Observable above.
-    - Optional: [Variable assignment in JavaScript: let, const, var for beginners](https://observablehq.com/@chi37/var-let-const-for-beginners)
+Any changes to the semester schedule will be announced on Canvas. 
+<div style="
+  width: calc(100vw - 4rem);
+  margin-left: calc(-50vw + 50% + 2rem);
+  text-align: center;
+  overflow-x: auto;
+">
+  <table id="schedule" style="display: inline-table; font-size: 0.9em; width: 1000px;" >
+    <tr>
+        <td>Week</td>
+        <td>Dates</td>
+        <td>WA</td>
+        <td>WA Topic</td>
+        <td>Quinn</td>
+        <td>Quinn Topic</td>
+        <td>Other</td>
+        <td>Deadlines</td>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td>Tue., Aug. 26</td>
+        <td>1, p. 1-16</td>
+        <td>Argument: An Introduction</td>
+        <td>1.1-1.2</td>
+        <td>Milestones in Computing</td>
+        <td>Syllabus (on this site) and Markdown Basic Syntax Primer https://www.markdownguide.org/basic-syntax/</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Fri., Aug. 29</td>
+        <td>2., p. 17-43</td>
+        <td>Argument as Inquiry</td>
+        <td>1.3-1.6</td>
+        <td>Milestones in Computing and Contemporary Issues</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>2</td>
+        <td>Tue., Sep. 2</td>
+        <td>3., p. 51-65</td>
+        <td>Core of an Argument</td>
+        <td>2.1-2.5, all</td>
+        <td>Relativism</td>
+        <td>Le Guin, U. K. (1973). The Ones Who Walk Away from Omelas. </td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Fri., Sep. 5</td>
+        <td>4., p. 67-86</td>
+        <td>Logical Structure of an Argument</td>
+        <td>2.7 - 2.8, all + Appendix B.1-B.2</td>
+        <td>Utilitarianism</td>
+        <td></td>
+        <td>HW: Computer Science Fiction</td>
+    </tr>
+    <tr>
+        <td>3</td>
+        <td>Tue., Sep. 9</td>
+        <td>5., p.88-103</td>
+        <td>Using Evidence Effectively</td>
+        <td>2.9, all + Appendix B.3-B.5</td>
+        <td>Social Contract Theory</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Fri., Sep. 12</td>
+        <td>6., 104-119</td>
+        <td>Moving your Audience</td>
+        <td>2.6, all</td>
+        <td>Kantianism</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>4</td>
+        <td>Tue., Sep. 16</td>
+        <td>7, p.121-144</td>
+        <td>Responding to Objections and Alternative Views</td>
+        <td>2.10, p. all</td>
+        <td>Virtue Ethics, Ethics of Care</td>
+        <td>Gilligan, C. (1982). In A Different Voice: Psychological Theory and Women's Development. </td>
+        <td>HW: Evidence</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Fri., Sep. 19</td>
+        <td>8., p. 153-168</td>
+        <td>Analyzing Arguments Rhetorically</td>
+        <td>2.11-2.12, all</td>
+        <td>Comparing Theories</td>
+        <td>Godwin, T. (1954). The Cold Equations. https://www.lightspeedmagazine.com/fiction/the-cold-equations/</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>5</td>
+        <td>Tue., Sep. 23</td>
+        <td>10. p. 209-210</td>
+        <td>Types of Claims</td>
+        <td>3.1, 3.3, 3.6</td>
+        <td>Internet Interactions &amp; Political Impact of Social Media</td>
+        <td></td>
+        <td>HW: Argument Analysis</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Fri., Sep. 26</td>
+        <td>11. p. 220-241</td>
+        <td>Definition &amp; Resemblance Arguments</td>
+        <td>3.7-3.8</td>
+        <td>Censorship</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>6</td>
+        <td>Tue., Sep. 30</td>
+        <td>12, p. 248-264</td>
+        <td>Causal Arguments</td>
+        <td>8.5, p.397-403</td>
+        <td>Therac-25</td>
+        <td>Leveson, N. (1995). &quot;Causal Factors&quot; in Medical Devices: The Therac-25, p.44-49</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Fri., Oct. 3</td>
+        <td>13. p. 276-293, 14, p. 304-321</td>
+        <td>Evaluation &amp; Ethical Arguments, Proposal Arguments</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>HW: Making Claims</td>
+    </tr>
+    <tr>
+        <td>7</td>
+        <td>Tue., Oct. 7</td>
+        <td colspan="7" style="text-align:center;">EXAM 1</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Fri., Oct. 10</td>
+        <td colspan="7" style="text-align:center;">NO CLASS - No Class (Fall Break)</td>
+    </tr>
+    <tr>
+        <td>8</td>
+        <td>Tue., Oct. 14</td>
+        <td></td>
+        <td></td>
+        <td>4.1-4.4, all</td>
+        <td>Intellectual Property</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Fri., Oct. 17</td>
+        <td>15, p. 340-358</td>
+        <td>Finding and Evaluating Sources</td>
+        <td colspan="4" style="text-align:center;">Research Librarian Visit</td>
+    </tr>
+    <tr>
+        <td>9</td>
+        <td>Tue., Oct. 21</td>
+        <td>16, p. 359-374</td>
+        <td>Incorporating Sources</td>
+        <td>4.5-4.10, all</td>
+        <td>Digital IP</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Fri., Oct. 24</td>
+        <td>17, p. 375-396</td>
+        <td>Citing and Documenting Sources</td>
+        <td>Appendix A</td>
+        <td>Plagiarism</td>
+        <td>Overleaf &quot;Learn LaTeX in 30 minutes&quot;. https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>10</td>
+        <td>Tue., Oct. 28</td>
+        <td></td>
+        <td></td>
+        <td>5, all</td>
+        <td>Privacy</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Fri., Oct. 31</td>
+        <td></td>
+        <td></td>
+        <td>6, all</td>
+        <td>Privacy and the Government</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>11</td>
+        <td>Tue., Nov. 4</td>
+        <td></td>
+        <td></td>
+        <td>7, all</td>
+        <td>Network Security</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Fri., Nov. 7</td>
+        <td></td>
+        <td></td>
+        <td>8.1-8.4</td>
+        <td>Reliability</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>12</td>
+        <td>Tue., Nov. 11</td>
+        <td>9., p. 175-206</td>
+        <td>Visual Arguments</td>
+        <td></td>
+        <td></td>
+        <td>Tufte, E. R. (1997). Visual and statistical thinking: Displays of evidence for making decisions.</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Fri., Nov. 14</td>
+        <td></td>
+        <td></td>
+        <td>8.9, all</td>
+        <td>Algorithmic Bias</td>
+        <td>O&#39;Neil, C. (2017). Chapters 1 &quot;Bomb Parts&quot; and 7 &quot;Ineligible to Serve&quot; in Weapons of math destruction: How big data increases inequality and threatens democracy. </td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>13</td>
+        <td>Tue., Nov. 18</td>
+        <td></td>
+        <td></td>
+        <td>9, all</td>
+        <td>Professional Ethics</td>
+        <td>ACM Code of Conduct - https://www.acm.org/code-of-ethics</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Fri., Nov. 21</td>
+        <td colspan="6" style="text-align:center;">PAPER REVIEW</td>
+    </tr>
+    <tr>
+        <td>14</td>
+        <td>Tue., Nov. 25</td>
+        <td></td>
+        <td></td>
+        <td>8.6-8.8, 10.1-10.2, all</td>
+        <td>Automation</td>
+        <td>Winner, L. (2017). Do artifacts have politics?. In Computer ethics (pp. 177-192). Routledge.</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Fri., Nov. 28 </td>
+        <td colspan="6" style="text-align:center;">NO CLASS - No Class (Thanksgiving Holiday)</td>
+    </tr>
+    <tr>
+        <td>15</td>
+        <td>Tue., Dec. 2</td>
+        <td></td>
+        <td></td>
+        <td>10.3, all</td>
+        <td>AI, Generative AI, General AI</td>
+        <td>Universal Paperclips - https://www.decisionproblem.com/paperclips/, Wikipedia articles to skim (assigned week before)</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Fri., Dec. 5</td>
+        <td></td>
+        <td></td>
+        <td>10.4-10.7</td>
+        <td>Globalization</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>FINALS</td>
+        <td>Tue, Dec. 9</td>
+        <td colspan="6" style="text-align:center;">Finals Week: EXAM 2 - 11:20AM-12:50PM</td>
+    </tr>
+</table>
+</div>
+
+<script>
+    console.log('running');
+    const today = new Date();
+    today.setHours(0,0,0,0); 
+
+    const rows = document.querySelectorAll("#schedule tr");
+    let closestRow = null;
+    let closestDiff = Infinity;
+
+    rows.forEach(row => {
+      const cell = row.cells[1];
+        if (!cell) return;
     
-### Week 2
-- Tue., Jan. 23 Tech Fundamentals
-  - Reading
-    - Murray 3-4: Tech Fundamentals & Setup
-    - Start [Introduction to Vega-Lite](https://observablehq.com/@uwdata/introduction-to-vega-lite?collection=@uwdata/visualization-curriculum)
-- Fri., Jan. 26 Data
-  - VAD 2: What: Data Abstraction
-  - Murray 5: Data
-  - [Data Types](https://observablehq.com/@uwdata/data-types-graphical-marks-and-visual-encoding-channels?collection=@uwdata/visualization-curriculum) - read up to, but not through, the section named "Encoding Channels"
+        // Clean up string: remove weekday (e.g., "Fri., "), add year
+        const rawText = cell.textContent.trim();
+        const noWeekday = rawText.replace(/^[A-Za-z]+\.?,?\s*/, "");
+        const dateStr = noWeekday + " " + today.getFullYear();
+        console.log(dateStr)
+    
+      if (!dateStr) return;
+      const rowDate = new Date(dateStr);
+      const diff = rowDate - today;
 
-### Week 3
-- Tue., Jan. 30 Tasks
-  - VAD 3: Why: Task Abstraction
-  - Continue [Data Types, Graphical Marks, and Visual Encoding Channels](https://observablehq.com/@uwdata/data-types-graphical-marks-and-visual-encoding-channels?collection=@uwdata/visualization-curriculum) beginning at "Encoding Channels"
-- Fri., Feb. 2 Marks and Channels
-  - Reading
-    - VAD 5: Marks and Channels
-    - [Data Types, Graphical Marks, and Visual Encoding Channels](https://observablehq.com/@uwdata/data-types-graphical-marks-and-visual-encoding-channels?collection=@uwdata/visualization-curriculum) - finish.
-  
-  
-### Week 4
-- Tue., Feb. 6 Exploratory Data Analysis
-  - Reading
-    - Polaris: A System for Query, Analysis and Visualization of Multi-dimensional Relational Databases. Chris Stolte, Diane Tang, and Pat Hanrahan. IEEE TVCG. 2002.
-    - [Data Transformation](https://observablehq.com/@uwdata/data-transformation?collection=@uwdata/visualization-curriculum)
-- Fri., Feb. 9 Exploratory Data Analysis II
-  - Reading
-    - [Introduction to Tableau](https://help.tableau.com/current/guides/get-started-tutorial/en-us/get-started-tutorial-home.htm)
-    - [Scales, Axes, and Transformation](https://observablehq.com/@uwdata/scales-axes-and-legends?collection=@uwdata/visualization-curriculum)
+      if (diff >= 0 && diff < closestDiff) {
+        closestDiff = diff;
+        closestRow = row;
+      }
+    });
 
-### Week 5
-- Tue., Feb. 13 Tables I
-  - Reading
-    - VAD 7: Arrange Table Data
-- Fri., Feb. 16 Tables II
-  - Reading
-    - VAD 12: Facet
-    - [Multi-view Composition](https://observablehq.com/@uwdata/multi-view-composition?collection=@uwdata/visualization-curriculum)
-
-### Week 6
-- Tue., Feb. 20 Spatial Data I
-  - Reading
-    - VAD 8: Spatial Data
-    - [Cartographic Visualization](https://observablehq.com/@uwdata/cartographic-visualization?collection=@uwdata/visualization-curriculum)
-- Fri., Feb. 23 Spatial Data II
-  - Reading
-    - [Interaction](https://observablehq.com/@uwdata/interaction?collection=@uwdata/visualization-curriculum)
-
-### Week 7
-- Tue., Feb. 27 Networks I 
-  - Reading
-    - VAD 9: Network Data
-- Fri., Mar. 1 Networks II
-  
-### Week 8
-- Tue., Mar. 5 Introduction to D3 I
-  - Reading
-    - [Introduction to D3 - Static Visualizations](https://observablehq.com/@uwdata/introduction-to-d3-part-1?collection=@uwdata/introduction-to-d3)
-- Fri., Mar. 8 Introduction to D3 II
-  - Reading
-    - [D3 Tutorial Part II](https://observablehq.com/@uwdata/introduction-to-d3-part-2?collection=@uwdata/introduction-to-d3)
-
-### Week 9
-- Tue., Mar. 12 Spring break; no classes, university offices open Monday through Friday
-- Fri., Mar. 15 Spring break; no classes, university offices open Monday through Friday
-
-### Week 10
-- Tue., Mar. 19 Color and Perception I
-  - Reading
-    - VAD 6: Rules of Thumb
-- Fri., Mar. 22 Color and Perception II
-  - Reading
-    - VAD 10: Color and Other Channels
-
-### Week 11
-- Tue., Mar. 26 Manipulate
-  - Reading
-    - VAD 11: Manipulate View
-- Fri., Mar. 29 Presenting Visual Statistics
-  - Reading
-    - Tufte VST
-
-### Week 12
-- Tue., Apr. 2 3D Visualization I 
-  - Optional: [Kraus, M., Fuchs, J., Sommer, B., Klein, K., Engelke, U., Keim, D., & Schreiber, F. (2022, February). Immersive analytics with abstract 3D visualizations: A survey. In Computer Graphics Forum (Vol. 41, No. 1, pp. 201-229).](https://link.springer.com/book/10.2991/978-94-6239-186-4)
-- Fri., Apr. 5 3D Visualization II
-  - Optional: [Djavaherpour, H., Samavati, F., Mahdavi‐Amiri, A., Yazdanbakhsh, F., Huron, S., Levy, R., ... & Oehlberg, L. (2021, June). Data to physicalization: A survey of the physical rendering process. In Computer Graphics Forum (Vol. 40, No. 3, pp. 569-598).](https://diglib.eg.org/handle/10.1111/cgf14330)
-
-### Week 13
-- Tue., Apr. 9 Reduce
-  - Reading 
-    - VAD 13: Reduce Items and Attributes
-- Fri., Apr. 12 Embedding, Focus + Context
-  - Reading
-    - VAD 14: Embed Focus + Context
-
-### Week 14
-- Tue., Apr. 16 Evaluating Visualizations
-  - Reading
-    - VAD 4: Evaluation 
-- Fri., Apr. 19 Project Videos
-
-### Week 15
-- Tue., Apr. 23 Text
-  - Chapter 2 of [Cao, N., & Cui, W. (2016). Introduction to text visualization (Vol. 1). Paris: Atlantis Press.](https://link.springer.com/book/10.2991/978-94-6239-186-4)
-- Fri., Apr. 26 Visual Analytics, Machine Learning
-  - [La Rosa, B., Blasilli, G., Bourqui, R., Auber, D., Santucci, G., Capobianco, R., ... & Angelini, M. (2023, February). State of the art of visual analytics for explainable deep learning. In Computer graphics forum (Vol. 42, No. 1, pp. 319-355).](https://diglib.eg.org/handle/10.1111/cgf14733)
-  - [Sperrle, F., El‐Assady, M., Guo, G., Borgo, R., Chau, D. H., Endert, A., & Keim, D. (2021, June). A survey of human‐centered evaluations in human‐centered machine learning. In Computer Graphics Forum (Vol. 40, No. 3, pp. 543-568).](https://diglib.eg.org/handle/10.1111/cgf14329)
-
-### Finals
-- Fri., May 3 9:10AM-10:40AM: Final Project Presentations (DMTI 213)
+    if (closestRow) {
+      closestRow.classList.add("highlight");
+    }
+</script>
