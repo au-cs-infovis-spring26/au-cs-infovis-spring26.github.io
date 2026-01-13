@@ -242,88 +242,38 @@ Appendices (not covered, but relevant):
 - If you want to create more responsive Visualizations that work on tablets, phones, or other mobile devices, please review DIA 9: Responsive Visualizations
 - If you want to build accessible visualizations for those with vision impairments or other disabilities, please review DIA 10: Accessible Visualizations
 
-[//]: # (<script>)
+<script>
 
-[//]: # ()
-[//]: # (    console.log&#40;'running'&#41;;)
+    console.log('running');
+    const today = new Date();
+    today.setHours(0,0,0,0); 
 
-[//]: # ()
-[//]: # (    const today = new Date&#40;&#41;;)
+    const rows = document.querySelectorAll("#schedule tr");
+    let closestRow = null;
+    let closestDiff = Infinity;
 
-[//]: # ()
-[//]: # (    today.setHours&#40;0,0,0,0&#41;; )
+    rows.forEach(row => {
 
-[//]: # ()
-[//]: # ()
-[//]: # (    const rows = document.querySelectorAll&#40;"#schedule tr"&#41;;)
+        const cell = row.cells[1];
+        if (!cell) return;
 
-[//]: # ()
-[//]: # (    let closestRow = null;)
+        const rawText = cell.textContent.trim();
+        const noWeekday = rawText.replace(/^[A-Za-z]+\.?,?\s*/, "");
+        const dateStr = noWeekday + " " + today.getFullYear();
 
-[//]: # ()
-[//]: # (    let closestDiff = Infinity;)
+        if (!dateStr) return;
+        const rowDate = new Date(dateStr);
+        const diff = rowDate - today;
+        
+        if (diff >= 0 && diff < closestDiff) {
+            closestDiff = diff;
+            closestRow = row;
+        }
+    });
 
-[//]: # ()
-[//]: # ()
-[//]: # (    rows.forEach&#40;row => {)
+    if (closestRow) {
+      closestRow.classList.add("highlight");
+    }
 
-[//]: # ()
-[//]: # (      const cell = row.cells[1];)
 
-[//]: # ()
-[//]: # (        if &#40;!cell&#41; return;)
-
-[//]: # ()
-[//]: # (    )
-[//]: # (        // Clean up string: remove weekday &#40;e.g., "Fri., "&#41;, add year)
-
-[//]: # ()
-[//]: # (        const rawText = cell.textContent.trim&#40;&#41;;)
-
-[//]: # ()
-[//]: # (        const noWeekday = rawText.replace&#40;/^[A-Za-z]+\.?,?\s*/, ""&#41;;)
-
-[//]: # ()
-[//]: # (        const dateStr = noWeekday + " " + today.getFullYear&#40;&#41;;)
-
-[//]: # ()
-[//]: # (        console.log&#40;dateStr&#41;)
-
-[//]: # ()
-[//]: # (    )
-[//]: # (      if &#40;!dateStr&#41; return;)
-
-[//]: # ()
-[//]: # (      const rowDate = new Date&#40;dateStr&#41;;)
-
-[//]: # ()
-[//]: # (      const diff = rowDate - today;)
-
-[//]: # ()
-[//]: # ()
-[//]: # (      if &#40;diff >= 0 && diff < closestDiff&#41; {)
-
-[//]: # ()
-[//]: # (        closestDiff = diff;)
-
-[//]: # ()
-[//]: # (        closestRow = row;)
-
-[//]: # ()
-[//]: # (      })
-
-[//]: # ()
-[//]: # (    }&#41;;)
-
-[//]: # ()
-[//]: # ()
-[//]: # (    if &#40;closestRow&#41; {)
-
-[//]: # ()
-[//]: # (      closestRow.classList.add&#40;"highlight"&#41;;)
-
-[//]: # ()
-[//]: # (    })
-
-[//]: # ()
-[//]: # (</script>)
+</script>
