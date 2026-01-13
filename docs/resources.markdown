@@ -9,7 +9,7 @@ permalink: /resources/
 
 # Textbooks
 
-There are two required textbooks for this course that are available online and one that you must purchase. However, other readings will be taken from other sources as necessary and available freely online or through AU online resources. The listed books and online resources on this page are subject to frequent change and updates throughout the semester. 
+There are two required textbooks for this course that are available online for free. However, other readings will be taken from other sources as necessary and available freely online or through AU online resources. The listed books and online resources on this page are subject to frequent change and updates throughout the semester. 
 
 | Book                      | Description |
 |---------------------------| - |
