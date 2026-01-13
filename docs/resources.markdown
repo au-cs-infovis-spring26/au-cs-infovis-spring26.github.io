@@ -14,5 +14,5 @@ There are two required textbooks for this course that are available online and o
 | Book | Description |
 | - | - |
 | ![VAD](/img/vadcover.png)  |  **Required** <br> **Title**: Visualization Analysis and Design <br> **Author**: Tamara Munzner <br> Free: [O'Reilly AU Account](https://learning.oreilly.com/library/view/visualization-analysis-and/9781466508910/#toc) |
-| ![DIA](https://github.com/user-attachments/assets/17fd741a-c7ea-4055-a801-b7239da88461)  |  **Required** <br> Free: [D3.js in Action, Third Edition!](https://learning.oreilly.com/library/view/d3-js-in-action/9781633439177/)
+| ![DIA]()  |  **Required** <br> Free: [D3.js in Action, Third Edition!](https://learning.oreilly.com/library/view/d3-js-in-action/9781633439177/)
 | ![Tufte](/img/vst.jpg)  |  **Required** <br> **Title**: Visual and Statistical Thinking <br> **Authors**: Edward Tufte <br> Purchase: [Amazon, about $10](https://www.amazon.com/Visual-Statistical-Thinking-Displays-Decisions/dp/0961392134/) |
