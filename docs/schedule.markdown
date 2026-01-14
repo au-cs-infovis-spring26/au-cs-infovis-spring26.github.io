@@ -158,7 +158,7 @@ Any changes to the semester schedule will be announced on Canvas. The full [Info
         <td></td>
         <td>Fri., Mar. 20</td>
         <td>DIA 7</td>
-        <td>Interactive Visualizations</td>
+        <td>Lab 7: Interactive Visualizations</td>
         <td>Solo Project Sketches</td>
     </tr>
     <tr>
@@ -173,7 +173,7 @@ Any changes to the semester schedule will be announced on Canvas. The full [Info
         <td>Fri., Mar. 27</td>
         <td>DIA 11</td>
         <td>Hierarchical Visualizations</td>
-        <td></td>
+        <td>Start Lab 8</td>
     </tr>
     <tr>
         <td>12</td>
@@ -200,7 +200,7 @@ Any changes to the semester schedule will be announced on Canvas. The full [Info
         <td></td>
         <td>Fri., Apr. 10</td>
         <td>DIA 13</td>
-        <td>Geospatial Information Visualizations</td>
+        <td>Lab 9: Geospatial Information Visualizations</td>
         <td>Submit HW 4</td>
     </tr>
     <tr>
