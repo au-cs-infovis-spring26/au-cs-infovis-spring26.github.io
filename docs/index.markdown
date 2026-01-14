@@ -5,11 +5,11 @@
 layout: page
 ---
 
-![Some examples we will discuss](/img/examples.png)
+![Some examples we will discuss](/img/examples-small.png)
 
 Information visualization helps people explore or explain data through interactive software that exploits the capabilities of the human perceptual system. A key challenge in information visualization is designing a useful spatial mapping of a dataset that is not inherently spatial and coupling that mapping to interaction techniques that allow people to intuitively explore the dataset. Information visualization draws on the intellectual history of several traditions, including computer graphics, human-computer interaction, cognitive psychology, semiotics, graphic design, statistical graphics, cartography, and art. The synthesis of relevant ideas from these fields with new methodologies and techniques made possible by interactive computation are critical for helping people keep pace with the torrents of data confronting them.
 
-Students will learn how to design and build interactive visualizations for the web, using the [Vega-Lite](https://vega.github.io/vega-lite) and [D3.js](https://d3js.org) (Data-Driven Documents) frameworks.
+Students will learn how to design and build interactive visualizations for the web, using the [D3.js](https://d3js.org) (Data-Driven Documents) frameworks.
 
 
 ## Learning Objectives:
