@@ -11,7 +11,8 @@ permalink: /schedule/
   }
 </style>
 
-Any changes to the semester schedule will be announced on Canvas. 
+Any changes to the semester schedule will be announced on Canvas. The full [InfoVis Playlist](https://learning.oreilly.com/playlists/bfdfbf3a-0d58-44f0-a2d9-a8ff451bfe79) of readings can be found on O'Reilly Safari.
+
 <div style="
   width: calc(100vw - 4rem);
   margin-left: calc(-50vw + 50% + 2rem);
@@ -139,12 +140,12 @@ Any changes to the semester schedule will be announced on Canvas.
     <tr>
         <td>9</td>
         <td>Tue., Mar. 10</td>
-        <td colspan="3" style="text-align:center;">NO CLASS - No Class (Spring Break)</td>
+        <td colspan="3" style="text-align:center;">NO CLASS - Spring Break</td>
     </tr>
     <tr>
         <td></td>
         <td>Fri., Mar. 13</td>
-        <td colspan="3" style="text-align:center;">NO CLASS - No Class (Spring Break)</td>
+        <td colspan="3" style="text-align:center;">NO CLASS - Spring Break</td>
     </tr>
     <tr>
         <td>10</td>
