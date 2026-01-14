@@ -23,8 +23,8 @@ email: godwin@american.edu
 author: Alex Godwin
 description: >- # this means to ignore newlines until "baseurl:"
   Information visualization helps people explore or explain data through interactive software that exploits the capabilities of the human perceptual system.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://au-cs-infovis-spring26.github.io"
+#baseurl: ""
 github_username:  jagodwin
 
 # Build settings
